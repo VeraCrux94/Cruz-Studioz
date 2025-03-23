@@ -211,7 +211,11 @@ header {
 
 
 exploring_code_as_form {
-  max-width: 34vh;
+  max-width: 34rem;
+}
+
+p {
+  max-width: 34rem;
 }
     
     
